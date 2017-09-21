@@ -1,4 +1,4 @@
-# Purpose:  Read data from an API
+# Purpose:  Read data from the O*NET API - occupations
 # Author:   Coline Dony
 # Date:     Sept 21, 2017
 
