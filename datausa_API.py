@@ -11,7 +11,7 @@ api_key = '<your api key>'
 
 # The URL with your API request
 # Request the response to be in the JSON format
-url_api_request = 'https://...'
+url_api_request = 'http://api.datausa.io/api/?show=geo&required=diabetes&sumlevel=all&geo=31000US14460'
 
 # The API request is sent using the internet
 # The JSON response is then read as a string
